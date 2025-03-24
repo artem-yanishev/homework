@@ -46,5 +46,6 @@ public class Main {
         System.out.println("Всего работников в компании - " +totalEmployees+ " человек");
         totalTime = time * (totalEmployees + 94);
         System.out.println("Если в кампании работает на 94 человека больше, чем раньше, то всего " +totalTime+ " часов работы может быть поделено между сотрудниками.");
+
     }
 }
